@@ -14,8 +14,6 @@ The forecasting pipeline is:
 → purged walk-forward validation
 
 The target is
-
-
 \[RV_{t,t+1h}
 =
 \sqrt{\sum_{j=1}^{12} r_{t+j}^2},\]
