@@ -14,9 +14,9 @@ The forecasting pipeline is:
 → purged walk-forward validation
 
 The target is
-$$
+$
 RV_{t,t+1h} = \sqrt{\sum_{j=1}^{12} r_{t+j}^2},
-$$
+$
 
 
 where \(r_{t+j}\) denotes the 5-minute log return.
